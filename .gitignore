@@ -1,0 +1,36 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and editor files
+*.log
+.DS_Store
+.vscode/
+
+# Large FMA source dataset (kept locally)
+backend/datasets/
+
+# Local backups and test artifacts
+*.backup
+backend/catalog_repaired_test.json

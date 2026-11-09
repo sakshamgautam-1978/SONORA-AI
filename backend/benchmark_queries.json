@@ -1,0 +1,243 @@
+
+[
+  {
+    "id": 1,
+    "query": "peaceful music for late night studying",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "study",
+    "expected_genre": ""
+  },
+  {
+    "id": 2,
+    "query": "high energy music for an intense workout",
+    "mode": "discovery",
+    "expected_mood": "energetic",
+    "expected_activity": "workout",
+    "expected_genre": ""
+  },
+  {
+    "id": 3,
+    "query": "happy uplifting music for a road trip",
+    "mode": "discovery",
+    "expected_mood": "happy",
+    "expected_activity": "travel",
+    "expected_genre": ""
+  },
+  {
+    "id": 4,
+    "query": "emotional piano music for a rainy evening",
+    "mode": "familiar",
+    "expected_mood": "emotional",
+    "expected_activity": "",
+    "expected_genre": ""
+  },
+  {
+    "id": 5,
+    "query": "dreamy ambient music for meditation",
+    "mode": "discovery",
+    "expected_mood": "dreamy",
+    "expected_activity": "meditation",
+    "expected_genre": "ambient"
+  },
+  {
+    "id": 6,
+    "query": "soft classical music for concentration",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "focus",
+    "expected_genre": "classical"
+  },
+  {
+    "id": 7,
+    "query": "energetic electronic music with a powerful beat",
+    "mode": "discovery",
+    "expected_mood": "energetic",
+    "expected_activity": "",
+    "expected_genre": "electronic"
+  },
+  {
+    "id": 8,
+    "query": "romantic music for a quiet evening",
+    "mode": "familiar",
+    "expected_mood": "romantic",
+    "expected_activity": "",
+    "expected_genre": ""
+  },
+  {
+    "id": 9,
+    "query": "aggressive rock music for intense training",
+    "mode": "discovery",
+    "expected_mood": "aggressive",
+    "expected_activity": "workout",
+    "expected_genre": "rock"
+  },
+  {
+    "id": 10,
+    "query": "relaxing music to fall asleep",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "sleep",
+    "expected_genre": ""
+  },
+  {
+    "id": 11,
+    "query": "jazz music for a peaceful afternoon",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "",
+    "expected_genre": "jazz"
+  },
+  {
+    "id": 12,
+    "query": "discover unfamiliar hip hop sounds",
+    "mode": "discovery",
+    "expected_mood": "",
+    "expected_activity": "",
+    "expected_genre": "hip-hop"
+  },
+  {
+    "id": 13,
+    "query": "folk music for a long journey",
+    "mode": "discovery",
+    "expected_mood": "",
+    "expected_activity": "travel",
+    "expected_genre": "folk"
+  },
+  {
+    "id": 14,
+    "query": "instrumental music without vocals for focus",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "study",
+    "expected_genre": ""
+  },
+  {
+    "id": 15,
+    "query": "cheerful pop songs for a morning walk",
+    "mode": "discovery",
+    "expected_mood": "happy",
+    "expected_activity": "walking",
+    "expected_genre": "pop"
+  },
+  {
+    "id": 16,
+    "query": "blues music for a reflective mood",
+    "mode": "familiar",
+    "expected_mood": "emotional",
+    "expected_activity": "",
+    "expected_genre": "blues"
+  },
+  {
+    "id": 17,
+    "query": "ambient sound for deep relaxation",
+    "mode": "discovery",
+    "expected_mood": "calm",
+    "expected_activity": "relaxation",
+    "expected_genre": "ambient"
+  },
+  {
+    "id": 18,
+    "query": "classical music for meditation",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "meditation",
+    "expected_genre": "classical"
+  },
+  {
+    "id": 19,
+    "query": "fast electronic music for running",
+    "mode": "discovery",
+    "expected_mood": "energetic",
+    "expected_activity": "workout",
+    "expected_genre": "electronic"
+  },
+  {
+    "id": 20,
+    "query": "sad soulful music for a quiet night",
+    "mode": "familiar",
+    "expected_mood": "emotional",
+    "expected_activity": "",
+    "expected_genre": "soul-rnb"
+  },
+  {
+    "id": 21,
+    "query": "country music for a relaxed road trip",
+    "mode": "discovery",
+    "expected_mood": "calm",
+    "expected_activity": "travel",
+    "expected_genre": "country"
+  },
+  {
+    "id": 22,
+    "query": "experimental music with unusual sounds",
+    "mode": "discovery",
+    "expected_mood": "",
+    "expected_activity": "",
+    "expected_genre": "experimental"
+  },
+  {
+    "id": 23,
+    "query": "soft dreamy music while falling asleep",
+    "mode": "familiar",
+    "expected_mood": "dreamy",
+    "expected_activity": "sleep",
+    "expected_genre": ""
+  },
+  {
+    "id": 24,
+    "query": "powerful hip hop for a gym session",
+    "mode": "discovery",
+    "expected_mood": "energetic",
+    "expected_activity": "workout",
+    "expected_genre": "hip-hop"
+  },
+  {
+    "id": 25,
+    "query": "gentle instrumental jazz for studying",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "study",
+    "expected_genre": "jazz"
+  },
+  {
+    "id": 26,
+    "query": "happy folk music for a sunny morning",
+    "mode": "discovery",
+    "expected_mood": "happy",
+    "expected_activity": "",
+    "expected_genre": "folk"
+  },
+  {
+    "id": 27,
+    "query": "emotional rock songs with meaningful lyrics",
+    "mode": "familiar",
+    "expected_mood": "emotional",
+    "expected_activity": "",
+    "expected_genre": "rock"
+  },
+  {
+    "id": 28,
+    "query": "peaceful music for a long meditation session",
+    "mode": "discovery",
+    "expected_mood": "calm",
+    "expected_activity": "meditation",
+    "expected_genre": ""
+  },
+  {
+    "id": 29,
+    "query": "discover energetic genres outside my usual taste",
+    "mode": "discovery",
+    "expected_mood": "energetic",
+    "expected_activity": "",
+    "expected_genre": ""
+  },
+  {
+    "id": 30,
+    "query": "calm music for relaxing after a stressful day",
+    "mode": "familiar",
+    "expected_mood": "calm",
+    "expected_activity": "relaxation",
+    "expected_genre": ""
+  }
+]
