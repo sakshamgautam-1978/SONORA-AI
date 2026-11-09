@@ -112,8 +112,8 @@ const demoTracks = [
   },
 ];
 
-const API_BASE = "http://localhost:8000/api";
 
+const API_BASE = "https://sonora-ai-backend.onrender.com/api";
 // Stable component outside App: prevents track cards from remounting on every player tick.
 function TrackCard({
   track,
